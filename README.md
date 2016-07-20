@@ -1,2 +1,2 @@
 # gammison.github.io
-[https://gammison.github.io](Personal Site)
+[Personal Site](https://gammison.github.io)
