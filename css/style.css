@@ -1,0 +1,34 @@
+html,body{
+  background-color: #ccffff
+}
+.main{
+	padding: 4vh 15vw;
+	line-height: 32px;
+	font-family: "elena-web-basic", Helvetica, serif;
+	color: #7e7e7e;
+}
+
+body {
+	background-color: #fcfcfc;
+}
+
+table {
+	color: #7e7e7e;
+}
+
+td {
+    width: 150;
+    height: 150;
+}
+
+h1 {
+	font-size: 64px;
+}
+
+p {
+    width: 700px;
+}
+
+a {
+	color: #7e7e7e;
+}
